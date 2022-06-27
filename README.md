@@ -1,5 +1,5 @@
 # Tes-Backend-Juni272022
-hasil tes untuk posisi backend.
+
 Tugasnya sebagai berikut :
   Buat CRUD management, framework laravel atau CodeIgniter dengan ketentuan berikut:
   1. Tabel menggunakan DataTable JS, diutamakan yang menggunakan server side
@@ -13,6 +13,7 @@ Tugasnya sebagai berikut :
        status menggunakan JS switch
   5. M_customer_type tidak perlu dibuat CRUD, isi hanya nama, keterangan, status
 ====================================================================================================================
+o> file ada di folder tes_backend_Juni.zip
 o> DONE : baru bisa bikin CRUD, belum terdapat tombol Export & Print, belum terdapat global search
 o> Nama DB : test
      script create DB ada di folder : ..\tes_backend_Juni\SCRIPT CREATE DB test
